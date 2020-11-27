@@ -10,5 +10,6 @@ package com.atguigu.git;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("This is V1");
+        System.out.println("This is hot-fix");
     }
 }
